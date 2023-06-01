@@ -8,7 +8,7 @@
 
   /* Add styles for the header */
   header {
-    background-color: lightblue;
+    background-color: red;
     padding: 0.2px;
     font-family: Book Antiqua;
     
@@ -31,7 +31,7 @@
   /* Add styles for the links in the navigation menu */
   nav a {
     text-decoration: underline;
-    color: blue;
+    color: pink;
   }
 
   /* Add styles for the main content */
